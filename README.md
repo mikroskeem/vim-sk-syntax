@@ -1,2 +1,3 @@
-# vim-sk-syntax
-Vim Skript syntax highlighting
+# ViM Skript syntax [WIP]
+
+Syntax highlighting for Skript (.sk) files
